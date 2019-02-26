@@ -1,0 +1,21 @@
+What are JavaScript Data Types?
+ What is the use of isNaN function?
+ What is === operator?
+ Explain the difference between "==" and "==="?
+ What would be the result of 10+12+"7"?
+ What would be the result of "7"+1+5?
+ fiter,map,reduce,foreach predefine
+ call, apply and bind, explain, difference, code example
+ What is unshift method in JavaScript?
+ What is the 'Strict' mode in JavaScript and how can it be enabled?
+ what is Self-Executing Functions
+ How will you explain closures in JavaScript? When are they used?
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ How can a value be appended to an array?
+
+Ans: A value can be appended to an array in the given manner -
+
+arr[arr.length] = value; 
+ 
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ difference-between-es-5-and-es-6

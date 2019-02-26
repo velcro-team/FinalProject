@@ -1,0 +1,35 @@
+Explain the component directory structure of angular4.
+Explain ngFor directive with an example.
+Write the CLI command to generate a component in Angular4.
+What’s new in Angular 5 or Angular 6 or Angular 7
+Name the building blocks of Angular and explan.
+What is the use of @Input and @Output? 
+What is a RouterOutlet?
+In how many ways the Data Binding can be done?
+Ans: (i) Property Binding (ii) Event Binding (iii) Two-Way Data Binding. 
+angular lifecycles, What is the sequence of Angular Lifecycle Hooks?
+custom directives, type of directives
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+What are ngModel and how do we represent it?
+OR
+How to implement two way binding in angular4/6
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+=> aot(Ahead-of-time) vs jit(just in time)
+=> JIT compilation as the name implies, compiles the application just-in-time in the brower at runtime.
+=> AOT compilation compiles the application at build time
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Differentiate between Observables and Promises.
+
+Observables are lazy, which means nothing happens until a subscription is made. Whereas Promises are eager; which means as soon as a promise is created, 
+the execution takes place. Observable is a stream in which passing of zero or more events is possible and the callback is called for each event. Whereas, 
+promise handles a single event. 
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+what are the pipes in angular
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Differentiate between ng-Class and ng-Style.
+
+In ng-Class, loading of CSS class is possible; whereas, in ng-Style we can set the CSS style.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

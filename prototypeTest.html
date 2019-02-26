@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script type="text/javascript">
+
+var Friend = function(name, age){
+  this.name=name;
+  this.age = age;
+}
+
+var friendObj = new Friend("Rakesh", 25);
+
+Friend.prototype.detail = function(){
+  return "my name is "+this.name+" and age is "+this.age;
+}
+
+
+alert(friendObj.detail());
+
+
+
+    </script>
+  </body>
+</html>

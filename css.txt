@@ -1,0 +1,13 @@
+In how many ways can a CSS be integrated as a web page?
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+What is CSS Box Model and what are its elements?
+Ans: Margin: transparent area outside border
+Border: the padding and content option with a border around it is shown.
+Padding: Space is around content. Padding is transparent.
+Content: box where text and images appear.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+type of selectors in css
+
+difference between CSS2 and CSS3.
+How do we make a rounded corner by using CSS?
